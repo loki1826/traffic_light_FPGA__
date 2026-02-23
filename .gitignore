@@ -1,0 +1,12 @@
+# Vivado generated files
+.Xil/
+*.jou
+*.log
+project_3.sim/
+project_3.cache/
+project_3.hw/
+project_3.runs/
+
+# OS
+Thumbs.db
+.DS_Store

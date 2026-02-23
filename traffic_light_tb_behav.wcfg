@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="traffic_light_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="traffic_light_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="520.001 ns"></ZoomEndTime>
+      <Cursor1Time time="151.684 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="155"></NameColumnWidth>
+      <ValueColumnWidth column_width="153"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="18" />
+   <wvobject fp_name="/traffic_light_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_tb/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_tb/emg_north" type="logic">
+      <obj_property name="ElementShortName">emg_north</obj_property>
+      <obj_property name="ObjectShortName">emg_north</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_tb/emg_south" type="logic">
+      <obj_property name="ElementShortName">emg_south</obj_property>
+      <obj_property name="ObjectShortName">emg_south</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_tb/emg_east" type="logic">
+      <obj_property name="ElementShortName">emg_east</obj_property>
+      <obj_property name="ObjectShortName">emg_east</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_tb/emg_west" type="logic">
+      <obj_property name="ElementShortName">emg_west</obj_property>
+      <obj_property name="ObjectShortName">emg_west</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_tb/N_red" type="logic">
+      <obj_property name="ElementShortName">N_red</obj_property>
+      <obj_property name="ObjectShortName">N_red</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_tb/N_yellow" type="logic">
+      <obj_property name="ElementShortName">N_yellow</obj_property>
+      <obj_property name="ObjectShortName">N_yellow</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_tb/N_green" type="logic">
+      <obj_property name="ElementShortName">N_green</obj_property>
+      <obj_property name="ObjectShortName">N_green</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_tb/S_red" type="logic">
+      <obj_property name="ElementShortName">S_red</obj_property>
+      <obj_property name="ObjectShortName">S_red</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_tb/S_yellow" type="logic">
+      <obj_property name="ElementShortName">S_yellow</obj_property>
+      <obj_property name="ObjectShortName">S_yellow</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_tb/S_green" type="logic">
+      <obj_property name="ElementShortName">S_green</obj_property>
+      <obj_property name="ObjectShortName">S_green</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_tb/E_red" type="logic">
+      <obj_property name="ElementShortName">E_red</obj_property>
+      <obj_property name="ObjectShortName">E_red</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_tb/E_yellow" type="logic">
+      <obj_property name="ElementShortName">E_yellow</obj_property>
+      <obj_property name="ObjectShortName">E_yellow</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_tb/E_green" type="logic">
+      <obj_property name="ElementShortName">E_green</obj_property>
+      <obj_property name="ObjectShortName">E_green</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_tb/W_red" type="logic">
+      <obj_property name="ElementShortName">W_red</obj_property>
+      <obj_property name="ObjectShortName">W_red</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_tb/W_yellow" type="logic">
+      <obj_property name="ElementShortName">W_yellow</obj_property>
+      <obj_property name="ObjectShortName">W_yellow</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_tb/W_green" type="logic">
+      <obj_property name="ElementShortName">W_green</obj_property>
+      <obj_property name="ObjectShortName">W_green</obj_property>
+   </wvobject>
+</wave_config>
