@@ -22,5 +22,5 @@ It controls traffic signals for North, South, East, and West directions and is s
 4. Set `traffic_light_tb` as simulation top  
 5. Run Behavioral Simulation  
 
-## Author
-loki1826
+## Simulation (Vivado XSim)
+This waveform shows the behavioral simulation of the FPGA-based traffic light controller. The testbench drives clock, reset, and emergency signals, and the DUT outputs correct red/yellow/green signals for North, South, East, and West directions.
